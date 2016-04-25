@@ -6,6 +6,6 @@
  </head>
 <body>
 <p>本文<p>
-<img src="myvolume"
+<img src="z\PA2404745.jpg"alt="観覧車"/>
 </body>
 </html>
