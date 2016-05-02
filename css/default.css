@@ -1,8 +1,8 @@
 @charset"UTF-8";
 body{
   background-color:#fbf9cc;/*背景色変更*/
-  background-image:url();
-  background-
+  background-image:url(maya-11.jpg);
+  background-repeat:repeat-x;
 }
 h1 span{
   color:#d0e35b;
