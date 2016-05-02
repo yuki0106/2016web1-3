@@ -1,15 +1,39 @@
 @charset"UTF-8";
 body{
   background-color:#fbf9cc;/*背景色変更*/
+  
 }
+h1 span{
+  color:#d0e35b;
+}
+#lead{
+  border-top:#6fbb9a 1px dotted;
+  text-align:center;
+}
+a{
+  color: #df4839;
+}
+a:hover{
+  color: #ff705b; 
+}
+
 h1{
   font-size:1.75em;
   color:#3399cc;
+  text-align: center;
 }
 h2{
   font-size:1.25em;
-  color:#3399cc;
+  color:#ffffff;
+  border: #94c8b1 1px dotted; /* 境界線 */
+  border-left:#d0e35b 10px solid;
+  margin-bottom: 0; /* 隣り合う要素との間隔 */
+  padding: 5px 20px;
 }
+greeting{
+  border-top: #6fbb9a 1px dotted;
+  text-align:center;
+}  
 p{
   font-size:0.8em;
   background-color:#3399cc;
@@ -18,4 +42,8 @@ p{
 li{
   font-size:0.8em;
   color:#333333;
+}
+address{
+    font-size: 0.75em;
+    font-style: italic;
 }
